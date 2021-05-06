@@ -1,1 +1,11 @@
+Nama : Dikta
+Usia : 19
+Asal : Bandung
+Prodi : Hukum
+Angkatan : 2018
 
+Nama : Jeffrey
+Usia : 18
+Asal : Jakarta
+Prodi : Teknik Sipil
+Angkatan : 2020
